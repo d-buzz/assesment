@@ -9,7 +9,7 @@ The app should be able to create, list and view post.
 Use API endpoint below from jsonplaceholder to achieve these.
 
 1. List: `GET https://jsonplaceholder.typicode.com/posts`
-2. Post: `POST https://jsonplaceholder.typicode.com/posts`
+2. Create: `POST https://jsonplaceholder.typicode.com/posts`
 3. View: `GET https://jsonplaceholder.typicode.com/posts/:id`
 
 View details about the api [here](https://jsonplaceholder.typicode.com/guide/)
