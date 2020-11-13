@@ -4,7 +4,7 @@
 
 Create a simple social media app with simple functionalities written with React.
 
-The app should be able to create, list and view post.
+The app should be able to create, list, update, delete and view post.
 
 Use API endpoint below from jsonplaceholder to achieve these.
 
