@@ -12,6 +12,8 @@ Use API endpoint below from jsonplaceholder to achieve these.
 2. Post: `POST https://jsonplaceholder.typicode.com/posts`
 3. View: `GET https://jsonplaceholder.typicode.com/posts/:id`
 
+View details about the api [here](https://jsonplaceholder.typicode.com/guide/)
+
 ### Recommendations
 
 #### We encourage you to build your app with these technologies if you are familiar with them.
