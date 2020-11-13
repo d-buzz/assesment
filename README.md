@@ -8,11 +8,11 @@ The app should be able to create, list, update, delete and view post.
 
 Use API endpoint below from jsonplaceholder to achieve these.
 
-1. List: `GET https://jsonplaceholder.typicode.com/posts`
-2. Create: `POST https://jsonplaceholder.typicode.com/posts`
-3. View: `GET https://jsonplaceholder.typicode.com/posts/:id`
+1. Create: `POST https://jsonplaceholder.typicode.com/posts`
+2. Read: `GET https://jsonplaceholder.typicode.com/posts/:id`
+3. Update: `PUT https://jsonplaceholder.typicode.com/posts/:id`
 4. Delete: `DELETE https://jsonplaceholder.typicode.com/posts/:id`
-5. Update: `PUT https://jsonplaceholder.typicode.com/posts/:id`
+5. List: `GET https://jsonplaceholder.typicode.com/posts`
 
 View details about the api [here](https://jsonplaceholder.typicode.com/guide/)
 
